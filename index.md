@@ -1,4 +1,4 @@
-#Hello World
+# Hello World
 
 This is my home page! My name is Ronil and I am a student at Cal State Fullerton and my major is business
 
